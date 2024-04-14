@@ -1,0 +1,4 @@
+typing==3.7.4.3
+deep-translator==1.11.4
+translators==5.9.1
+googletrans==3.0.0
